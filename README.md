@@ -1,5 +1,11 @@
 # Connection-Trace-Studio PHP SDK
 
+<!-- simple-start:start -->
+Use Connection-Trace-Studio from a PHP app.
+
+**Start here.** Run `composer require titancsa/connection-trace-studio`, then try the short example below. Install the matching Windows driver separately.
+<!-- simple-start:end -->
+
 > [!IMPORTANT]
 > **Contact TitanCSA**
 >
